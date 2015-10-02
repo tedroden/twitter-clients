@@ -2,7 +2,7 @@
 
 Since most of the twitter apps I've seen aren't that great, I was curious to see what people were using. (Hint: the website).
 
-You can try it out here [https://twitter-clients.appspot.com](twitter-clients.appspot.com)
+You can try it out here [twitter-clients.appspot.com](https://twitter-clients.appspot.com)
 
 ## what is it?
 
