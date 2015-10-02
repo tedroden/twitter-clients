@@ -1,0 +1,7 @@
+*pyc
+*~
+requests/
+twitter/
+requests_oauthlib/
+settings.py
+oauthlib/
